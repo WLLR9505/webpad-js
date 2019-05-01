@@ -1,0 +1,23 @@
+{
+  "name": "webpad-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLLR9505/webpad-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WLLR9505/webpad-js/issues"
+  },
+  "homepage": "https://github.com/WLLR9505/webpad-js#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
